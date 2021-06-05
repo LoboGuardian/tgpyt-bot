@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Telegram APIs"
+name = "telegram"
+optional = false
+python-versions = "*"
+version = "0.0.1"
+
+[metadata]
+content-hash = "6e0aa68a753330cf5edd938d947c939a0fb5daf5ee47c6da09134b5654f8c6d8"
+python-versions = "^3.8"
+
+[metadata.files]
+telegram = [
+    {file = "telegram-0.0.1.tar.gz", hash = "sha256:d405a0af4c868a8dbeae6d03e297e21c7ee6269e11e2ed3810e15544aba02591"},
+]
